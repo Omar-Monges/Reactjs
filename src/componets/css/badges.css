@@ -3,7 +3,10 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
   border-radius: 8px 8px 8px 8px;
   overflow: hidden;
+  padding: 0;
   height: auto;
+  color: #1b1b25;
+  font-size: 16px;
 }
 .badge__header {
   padding: 0.5rem 0;
@@ -16,7 +19,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1rem 0;
+  padding: 1rem 1rem;
 }
 .badge__section-info {
   display: flex;
