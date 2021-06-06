@@ -14,10 +14,10 @@ class Badges extends React.Component {
             src="https://www.gravatar.com/avatar?d=identicon"
             alt="Avatar"
           />
-          <h3>
+          <h1>
             Omar <br />
             Monges
-          </h3>
+          </h1>
         </div>
         <div className="badge__section-info">
           <p>Desarrollador web</p>
